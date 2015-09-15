@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">LOWLVL EQ</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="text_w">50dip</string>
+    <string name="f1">  70 </string>
+    <string name="f2"> 150</string>
+    <string name="f3"> 300</string>
+    <string name="f4"> 700</string>
+    <string name="f5">1.6k</string>
+    <string name="f6">3.5k</string>
+    <string name="f7">7.8k</string>
+    <string name="f8"> 15k</string>
+    <string name="g1"></string>
+    <string name="g2"></string>
+    <string name="g3"></string>
+    <string name="g4"></string>
+    <string name="g5"></string>
+    <string name="g6"></string>
+    <string name="g7"></string>
+    <string name="g8"></string>
+
+
+
+</resources>
