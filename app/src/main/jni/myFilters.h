@@ -13,7 +13,7 @@
 #include "SuperpoweredAdvancedAudioPlayer.h"
 #include "SuperpoweredFilter.h"
 #include "SuperpoweredMixer.h"
-#include "myFilters.h"
+
 
 #define NUM_BUFFERS 2
 #define HEADROOM_DECIBEL 3.0f
